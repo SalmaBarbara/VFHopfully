@@ -1,0 +1,15 @@
+# Ignore the virtual environment directory
+scrapingenv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore other files
+*.log
+*.env
+# Ignore other files
+test_date.py
+test_driver.py
+test_filter_and_scrape.py
